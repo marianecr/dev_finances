@@ -2,7 +2,7 @@
 
 ![preview](.github/header.png)
 
-> ### 🔗 [Você pode ver o projeto aqui.](https://marianecr.github.io/dev_finances/)
+> ### 🔗 [Você pode ver o projeto aqui.](https://marianecrt.github.io/dev_finances/)
 
 ### Aplicação desenvolvida na maratona discover 01 com o professor Mayk Brito, da Rocketseat, com o objetivo de por em prática os conhecimentos adquiridos nos cursos do primeiro módulo do Discover.
 
